@@ -75,7 +75,14 @@ Leaving the “shadows” option out will tell your renderer not to do the shado
 
 ***Sources:
 Professor Fadaifard, basic organization of class structure, inheritance heirarchy, setup
+
 https://stackoverflow.com/questions/341817/is-there-a-replacement-for-unistd-h-for-windows-visual-c
+
 OpenMesh
+
 OpenCV for Images
+
+spdlog
+
+https://github.com/tqdm/tqdm.cpp/blob/master/include/tqdm/tqdm.h
 
